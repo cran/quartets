@@ -1,0 +1,7 @@
+bibentry(
+  bibtype    = "Manual",
+  title    = "quartet: Datasets to help teach statistics",
+  author   = person("Lucy", "D'Agostino McGowan"),
+  year     = "2023",
+  url      = "https://lucymcgowan.github.io/quartet/"
+)
